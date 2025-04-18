@@ -56,3 +56,4 @@
 // 	return `${days}/${months}/${years}`;
 // }
 // console.log(formatDate());
+   console.log(formatDate()):
